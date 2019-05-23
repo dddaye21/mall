@@ -17,4 +17,6 @@ public abstract class AbstractEntity {
 	public Long getId() {
 		return id;
 	}
+	
+	//github
 }
